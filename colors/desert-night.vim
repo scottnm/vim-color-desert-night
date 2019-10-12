@@ -93,8 +93,8 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi SpellLocal guifg=#949fb4 guibg=NONE guisp=#949fb4 gui=NONE cterm=NONE
   hi SpellRare guifg=#d261a5 guibg=NONE guisp=#d261a5 gui=NONE cterm=NONE
   hi WildMenu guifg=#24221c guibg=#87765d guisp=NONE gui=NONE cterm=NONE
-  hi StatusLine guifg=#d4b07b guibg=#473f31 guisp=NONE gui=NONE cterm=NONE
-  hi StatusLineNC guifg=#d4b07b guibg=#24221c guisp=NONE gui=NONE cterm=NONE
+  hi StatusLine guifg=black guibg=darkorange guisp=NONE gui=NONE cterm=NONE
+  hi StatusLineNC guifg=darkorange guibg=black guisp=NONE gui=NONE cterm=NONE
   hi TabLine guifg=#d4b07b guibg=#473f31 guisp=NONE gui=NONE cterm=NONE
   hi TabLineFill guifg=#d4b07b guibg=#24221c guisp=NONE gui=NONE cterm=NONE
   hi TabLineSel guifg=#24221c guibg=#87765d guisp=NONE gui=NONE cterm=NONE
